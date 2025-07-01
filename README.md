@@ -29,7 +29,4 @@ This project implements a custom Convolutional Neural Network (CNN) architecture
 | InceptionV3  | Multi-path Feature Extraction |
 | Xception     | Depthwise separable + Residual modules |
 
----
-
-## 🗂️ Project Structure
 
